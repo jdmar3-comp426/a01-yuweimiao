@@ -35,7 +35,7 @@ a:hover {
     text-align: end;
     color:coral;
 }
-div:hover + div {
+div:h2 {
     border-style: none;
     border-color: rgb(139, 137, 125);
 }
