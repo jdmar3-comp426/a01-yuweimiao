@@ -21,6 +21,11 @@ body {
     border: cornflowerblue;
     border-radius: 20%;
 }
+
+.total > .start{
+    background-color:aqua;
+}
+
 h1:hover {
     background-color: lightcyan;
 }
