@@ -22,7 +22,7 @@ body {
     border-radius: 20%;
 }
 
-.total > .start{
+.total > .start > .h1{
     background-color:aqua;
 }
 
