@@ -22,7 +22,7 @@ body {
     border-radius: 20%;
 }
 
-.total h2{
+.total a {
     background-color:aqua;
 }
 
